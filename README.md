@@ -1,4 +1,4 @@
-# bot de base sert tout simplement à sécuriser votre URL de serveur ; personne ne pourra la changer une fois le script lancé. Corrigez cela
+# bot de base sert tout simplement à sécuriser votre URL de serveur ; personne ne pourra la changer une fois le script lancé.
 
 ## Démarrage du Bot
 
